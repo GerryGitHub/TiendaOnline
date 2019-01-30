@@ -12,8 +12,10 @@
 				<li class="nav-item active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span> 
 				</a></li>-->
 				<li id="about" class="nav-item"><a href="${contextRoot}/about" class="nav-link">About</a></li>
-				<li id="listProducts" class="nav-item"><a href="${contextRoot}/listProducts" class="nav-link">View Products</a></li>
+
 				<li id="contact" class="nav-item"><a href="${contextRoot}/contact" class="nav-link">Contact</a></li>
+
+				<li id="listProducts" class="nav-item"><a href="${contextRoot}/show/all/products" class="nav-link">View Products</a></li>
 			</ul>
 		</div>
 	</div>
